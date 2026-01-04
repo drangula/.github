@@ -88,7 +88,6 @@
   </tr>
 </table>
 
-<div align="center">
   <table width="92%">
     <tr>
       <td align="center">
@@ -166,7 +165,6 @@
       </td>
     </tr>
   </table>
-</div>
 
 <br/>
 
