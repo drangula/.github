@@ -6,20 +6,52 @@
 
   <p>
     <a href="https://www.drangula.net">
-      <img alt="Website" height="40" src="https://img.shields.io/badge/Website-DRANGULA.NET-00ABEF?style=for-the-badge&labelColor=080B0F&logo=vercel&logoColor=E6F6FF" />
+      <img
+        alt="Website"
+        src="https://img.shields.io/badge/DRANGULA.NET-00ABEF?style=for-the-badge&labelColor=080B0F"
+      />
     </a>
+    &nbsp;
     <a href="mailto:hi@drangula.net">
-      <img alt="Email" height="40" src="https://img.shields.io/badge/Email-HI%40DRANGULA.NET-0078D8?style=for-the-badge&labelColor=080B0F&logo=gmail&logoColor=E6F6FF" />
+      <img
+        alt="Email"
+        src="https://img.shields.io/badge/HI%40DRANGULA.NET-0078D8?style=for-the-badge&labelColor=080B0F"
+      />
     </a>
+    &nbsp;
     <a href="https://t.me/drangula">
-      <img alt="Telegram" height="40" src="https://img.shields.io/badge/Telegram-@DRANGULA-014593?style=for-the-badge&labelColor=080B0F&logo=telegram&logoColor=E6F6FF" />
+      <img
+        alt="Telegram"
+        src="https://img.shields.io/badge/@DRANGULA-014593?style=for-the-badge&labelColor=080B0F"
+      />
     </a>
   </p>
 
   <p>
-    <img alt="UAE" height="26" src="https://img.shields.io/badge/UAE-00ABEF?style=flat&labelColor=080B0F" />
-    <img alt="Node TS/JS" height="26" src="https://img.shields.io/badge/Node.js%20%7C%20TypeScript%20%7C%20JavaScript-0078D8?style=flat&labelColor=080B0F" />
-    <img alt="High-end delivery" height="26" src="https://img.shields.io/badge/High%E2%80%91End%20Delivery-014593?style=flat&labelColor=080B0F" />
+    <img
+      alt="UAE"
+      src="https://img.shields.io/badge/UAE-080B0F?style=for-the-badge&color=00ABEF"
+    />
+    &nbsp;
+    <img
+      alt="Node.js"
+      src="https://img.shields.io/badge/NODE.JS-080B0F?style=for-the-badge&color=0078D8"
+    />
+    &nbsp;
+    <img
+      alt="TypeScript"
+      src="https://img.shields.io/badge/TYPESCRIPT-080B0F?style=for-the-badge&color=00ABEF"
+    />
+    &nbsp;
+    <img
+      alt="JavaScript"
+      src="https://img.shields.io/badge/JAVASCRIPT-080B0F?style=for-the-badge&color=014593"
+    />
+    &nbsp;
+    <img
+      alt="High-end Delivery"
+      src="https://img.shields.io/badge/HIGH%E2%80%91END%20DELIVERY-080B0F?style=for-the-badge&color=00ABEF"
+    />
   </p>
 </div>
 
