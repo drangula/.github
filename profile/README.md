@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HERO -->
-<img src="https://www.drangula.net" alt="Drangula Development" width="0" height="0" />
+<img src="./assets/logo.png" alt="DRANGULA DEVELOPMENT" width="120" />
 
 <h1>DRANGULA DEVELOPMENT FZE LLC</h1>
 
@@ -126,9 +126,9 @@ Our clients get access to a private portal with:
 
 ## 🧾 Company
 
-- **Legal name:** Drangula Development FZE LLC  
+- **Legal name:** DRANGULA DEVELOPMENT FZE LLC  
 - **License Number:** 262782464888  
-- **Executive Director:** Dragan Milinković  
+- **Executive Director:** Dragan Milinkovic 
 - **Location:** United Arab Emirates  
 
 ---
