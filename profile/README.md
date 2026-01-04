@@ -3,8 +3,6 @@
 **High-end software studio delivering premium digital products and automations.**  
 🌐 https://www.drangula.net  
 
----
-
 ## 🏢 Company Overview
 
 **Drangula Development FZE LLC** is a UAE-based software development company focused on building **modern, scalable, and production-ready systems** for businesses worldwide.
@@ -14,8 +12,6 @@ We design, engineer, deploy, and maintain **high-performance digital products** 
 📍 **Based in:** United Arab Emirates  
 🧾 **License Number:** 262782464888  
 👤 **Executive Director:** Dragan Milinković  
-
----
 
 ## 🧠 What We Build
 
