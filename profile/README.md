@@ -1,45 +1,43 @@
 <div align="center">
-  <img src="./assets/logo.png" width="120" height="120" alt="Drangula Development Logo" />
+  <img src="./assets/logo.png" width="128" height="128" alt="Drangula Development" />
   <h1>DRANGULA DEVELOPMENT FZE LLC</h1>
-  <p><b>Premium software studio building high-end web platforms, mobile apps, bots, and AI automations.</b></p>
-  <p>UAE-based • Global delivery • Production-ready systems</p>
+  <p><b>Premium software studio delivering high-end web platforms, mobile apps, bots, and AI automations.</b></p>
+  <p>🇦🇪 UAE-based • Global delivery • Production-ready systems</p>
 
   <p>
     <a href="https://www.drangula.net">
-      <img alt="Website" src="https://img.shields.io/badge/drangula.net-00ABEF?style=for-the-badge&label=Website&labelColor=080B0F" />
+      <img alt="Website" height="40" src="https://img.shields.io/badge/Website-DRANGULA.NET-00ABEF?style=for-the-badge&labelColor=080B0F&logo=vercel&logoColor=E6F6FF" />
     </a>
     <a href="mailto:hi@drangula.net">
-      <img alt="Email" src="https://img.shields.io/badge/hi%40drangula.net-0078D8?style=for-the-badge&label=Email&labelColor=080B0F" />
+      <img alt="Email" height="40" src="https://img.shields.io/badge/Email-HI%40DRANGULA.NET-0078D8?style=for-the-badge&labelColor=080B0F&logo=gmail&logoColor=E6F6FF" />
     </a>
     <a href="https://t.me/drangula">
-      <img alt="Telegram" src="https://img.shields.io/badge/@drangula-014593?style=for-the-badge&label=Telegram&labelColor=080B0F" />
+      <img alt="Telegram" height="40" src="https://img.shields.io/badge/Telegram-@DRANGULA-014593?style=for-the-badge&labelColor=080B0F&logo=telegram&logoColor=E6F6FF" />
     </a>
   </p>
 
   <p>
-    <img alt="UAE" src="https://img.shields.io/badge/UAE-00ABEF?style=flat-square&labelColor=080B0F" />
-    <img alt="Node TS/JS" src="https://img.shields.io/badge/Node.js%20%7C%20TypeScript%20%7C%20JavaScript-0078D8?style=flat-square&labelColor=080B0F" />
-    <img alt="High-end delivery" src="https://img.shields.io/badge/High%E2%80%91End%20Delivery-014593?style=flat-square&labelColor=080B0F" />
+    <img alt="UAE" height="26" src="https://img.shields.io/badge/UAE-00ABEF?style=flat&labelColor=080B0F" />
+    <img alt="Node TS/JS" height="26" src="https://img.shields.io/badge/Node.js%20%7C%20TypeScript%20%7C%20JavaScript-0078D8?style=flat&labelColor=080B0F" />
+    <img alt="High-end delivery" height="26" src="https://img.shields.io/badge/High%E2%80%91End%20Delivery-014593?style=flat&labelColor=080B0F" />
   </p>
 </div>
 
-<hr/>
-
-<h2>⚡ What we build</h2>
+<br/>
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🌐 Web</h3>
+    <td width="33%" valign="top">
+      <h2>🌐 Web</h2>
       <ul>
         <li>Websites & premium landing pages</li>
-        <li>Web apps (dashboards, admin panels, SaaS)</li>
+        <li>SaaS platforms, dashboards, admin panels</li>
         <li>Client portals, subscriptions, payments</li>
-        <li>Internal tools & operations platforms</li>
+        <li>High-performance APIs & integrations</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
-      <h3>📱 Mobile</h3>
+    <td width="33%" valign="top">
+      <h2>📱 Mobile</h2>
       <ul>
         <li>iOS & Android apps</li>
         <li>Modern UI systems and UX flows</li>
@@ -47,23 +45,35 @@
         <li>Release-ready builds</li>
       </ul>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🤖 Bots</h3>
+    <td width="33%" valign="top">
+      <h2>🤖 Bots</h2>
       <ul>
         <li>Discord bots (roles, subscriptions, automation)</li>
         <li>Telegram bots (verification, commerce, workflows)</li>
         <li>WhatsApp bots (sales, support, booking flows)</li>
       </ul>
     </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
     <td width="50%" valign="top">
-      <h3>🧠 AI & Automations</h3>
+      <h2>🧠 AI & Automations</h2>
       <ul>
         <li>AI support agents & knowledge flows</li>
-        <li>Integrations (CRMs, Gmail, Sheets, webhooks)</li>
-        <li>Scheduling, monitoring, alerts</li>
-        <li>Hosting, deployment, uptime</li>
+        <li>Workflows, scheduling, monitoring, alerts</li>
+        <li>Integrations: CRMs, Gmail, Sheets, webhooks</li>
+        <li>Automation-first operations design</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h2>☁️ Hosting</h2>
+      <ul>
+        <li>Managed bot/app hosting</li>
+        <li>Deployment pipelines & environments</li>
+        <li>Uptime monitoring & incident response</li>
+        <li>Performance, logs, observability</li>
       </ul>
     </td>
   </tr>
@@ -71,21 +81,21 @@
 
 <hr/>
 
-<h2>💎 Delivery standard</h2>
+<h2>💎 Delivery Standard</h2>
 
 <table>
   <tr>
     <td width="33%" valign="top">
       <h3>Design</h3>
-      <p>Premium UI/UX, clean layouts, brand-consistent visuals, modern components.</p>
+      <p>Premium UI/UX, brand consistency, clean spacing, modern components.</p>
     </td>
     <td width="33%" valign="top">
       <h3>Engineering</h3>
-      <p>Scalable architecture, secure-by-default, performance-first, maintainable codebases.</p>
+      <p>Scalable architecture, secure-by-default, performance-first, maintainable systems.</p>
     </td>
     <td width="33%" valign="top">
       <h3>Shipping</h3>
-      <p>Production deployment, monitoring, structured handover, and long-term support options.</p>
+      <p>Production deployment, monitoring, structured handover, long-term support options.</p>
     </td>
   </tr>
 </table>
@@ -107,25 +117,16 @@
 
 <table>
   <tr>
-    <td width="33%" valign="top"><b>📦 Order Management</b><br/>Milestones, deliverables, timelines, and status tracking.</td>
-    <td width="33%" valign="top"><b>💸 Exclusive Discounts</b><br/>Preferred pricing and bundled offers for clients.</td>
-    <td width="33%" valign="top"><b>🔐 Source Code Management</b><br/>Secure access, releases, and handover-ready repositories.</td>
+    <td width="33%" valign="top"><b>📦 Order Management</b><br/>Milestones, deliverables, timelines, status tracking.</td>
+    <td width="33%" valign="top"><b>🔐 Source Code Management</b><br/>Secure access, releases, handover-ready repositories.</td>
+    <td width="33%" valign="top"><b>☁️ Hosting</b><br/>Managed hosting, monitoring, uptime, maintenance.</td>
   </tr>
   <tr>
-    <td width="33%" valign="top"><b>🔁 Subscriptions</b><br/>Maintenance, feature iterations, and priority support.</td>
-    <td width="33%" valign="top"><b>☁️ Hosting</b><br/>Managed bot/app hosting with monitoring and uptime.</td>
-    <td width="33%" valign="top"><b>📊 Operations</b><br/>Logs, usage tracking, and support workflows.</td>
+    <td width="33%" valign="top"><b>🔁 Subscriptions</b><br/>Maintenance, feature iterations, priority support.</td>
+    <td width="33%" valign="top"><b>💸 Exclusive Discounts</b><br/>Preferred pricing and bundled offers.</td>
+    <td width="33%" valign="top"><b>📊 Operations</b><br/>Logs, usage tracking, support workflows.</td>
   </tr>
 </table>
-
-<hr/>
-
-<h2>📈 GitHub Activity</h2>
-
-<div align="center">
-  <img height="165" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=drangula&show_icons=true&hide_title=true&rank_icon=github&include_all_commits=true&count_private=true&bg_color=080B0F&title_color=00ABEF&text_color=E6F6FF&icon_color=00ABEF&border_color=014593" />
-  <img height="165" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=drangula&background=080B0F&border=014593&ring=00ABEF&fire=0078D8&currStreakLabel=00ABEF&sideLabels=00ABEF&dates=E6F6FF&sideNums=E6F6FF&currStreakNum=E6F6FF" />
-</div>
 
 <hr/>
 
