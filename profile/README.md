@@ -55,42 +55,47 @@
   </p>
 </div>
 
-<br/>
+<br />
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h2>🌐 Web</h2>
-      <ul>
-        <li>Websites & premium landing pages</li>
-        <li>SaaS platforms, dashboards, admin panels</li>
-        <li>Client portals, subscriptions, payments</li>
-        <li>High-performance APIs & integrations</li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <h2>📱 Mobile</h2>
-      <ul>
-        <li>iOS & Android apps</li>
-        <li>Modern UI systems and UX flows</li>
-        <li>API-first architecture</li>
-        <li>Release-ready builds</li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <h2>🤖 Bots</h2>
-      <ul>
-        <li>Discord bots (roles, subscriptions, automation)</li>
-        <li>Telegram bots (verification, commerce, workflows)</li>
-        <li>WhatsApp bots (sales, support, booking flows)</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
+<div align="center">
   <table width="92%">
     <tr>
       <td align="center">
+
+        <table width="100%">
+          <tr>
+            <td width="33%" valign="top">
+              <h2>🌐 Web</h2>
+              <ul>
+                <li>Websites & premium landing pages</li>
+                <li>SaaS platforms, dashboards, admin panels</li>
+                <li>Client portals, subscriptions, payments</li>
+                <li>High-performance APIs & integrations</li>
+              </ul>
+            </td>
+
+            <td width="33%" valign="top">
+              <h2>📱 Mobile</h2>
+              <ul>
+                <li>iOS & Android apps</li>
+                <li>Modern UI systems and UX flows</li>
+                <li>API-first architecture</li>
+                <li>Release-ready builds</li>
+              </ul>
+            </td>
+
+            <td width="33%" valign="top">
+              <h2>🤖 Bots</h2>
+              <ul>
+                <li>Discord bots (roles, subscriptions, automation)</li>
+                <li>Telegram bots (verification, commerce, workflows)</li>
+                <li>WhatsApp bots (sales, support, booking flows)</li>
+              </ul>
+            </td>
+          </tr>
+        </table>
+
+        <hr />
 
         <table width="100%">
           <tr>
@@ -162,59 +167,74 @@
           </tr>
         </table>
 
+        <br />
+
+        <div align="center">
+          <img alt="Node.js" src="https://img.shields.io/badge/Node.js-080B0F?style=for-the-badge&logo=node.js&logoColor=00ABEF" />
+          <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-080B0F?style=for-the-badge&logo=typescript&logoColor=00ABEF" />
+          <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-080B0F?style=for-the-badge&logo=javascript&logoColor=00ABEF" />
+          <img alt="React" src="https://img.shields.io/badge/React-080B0F?style=for-the-badge&logo=react&logoColor=00ABEF" />
+          <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-080B0F?style=for-the-badge&logo=mongodb&logoColor=00ABEF" />
+          <img alt="Docker" src="https://img.shields.io/badge/Docker-080B0F?style=for-the-badge&logo=docker&logoColor=00ABEF" />
+        </div>
+
+        <hr />
+
+        <h2>🧩 Client Portal (Exclusive)</h2>
+
+        <table width="100%">
+          <tr>
+            <td width="33%" valign="top"><b>📦 Order Management</b><br />Milestones, deliverables, timelines, status tracking.</td>
+            <td width="33%" valign="top"><b>🔐 Source Code Management</b><br />Secure access, releases, handover-ready repositories.</td>
+            <td width="33%" valign="top"><b>☁️ Hosting</b><br />Managed hosting, monitoring, uptime, maintenance.</td>
+          </tr>
+          <tr>
+            <td width="33%" valign="top"><b>🔁 Subscriptions</b><br />Maintenance, feature iterations, priority support.</td>
+            <td width="33%" valign="top"><b>💸 Exclusive Discounts</b><br />Preferred pricing and bundled offers.</td>
+            <td width="33%" valign="top"><b>📊 Operations</b><br />Logs, usage tracking, support workflows.</td>
+          </tr>
+        </table>
+
+        <hr />
+
+        <h2>🏢 Company</h2>
+
+        <table width="100%">
+          <tr>
+            <td width="50%" valign="top">
+              <ul>
+                <li><b>Legal name:</b> Drangula Development FZE LLC</li>
+                <li><b>License Number:</b> 262782464888</li>
+              </ul>
+            </td>
+            <td width="50%" valign="top">
+              <ul>
+                <li><b>Executive Director:</b> Dragan Milinkovic</li>
+                <li><b>Location:</b> United Arab Emirates</li>
+              </ul>
+            </td>
+          </tr>
+        </table>
+
+        <hr />
+
+        <h2>📬 Contact</h2>
+
+        <table width="100%">
+          <tr>
+            <td width="33%" valign="top">🌐 https://www.drangula.net</td>
+            <td width="33%" valign="top">✉️ hi@drangula.net</td>
+            <td width="33%" valign="top">💬 https://t.me/drangula</td>
+          </tr>
+        </table>
+
+        <br />
+
+        <div align="center">
+          <sub>Built for scale. Designed to last. Delivered professionally.</sub>
+        </div>
+
       </td>
     </tr>
   </table>
-
-<br/>
-
-<div align="center">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-080B0F?style=for-the-badge&logo=node.js&logoColor=00ABEF" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-080B0F?style=for-the-badge&logo=typescript&logoColor=00ABEF" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-080B0F?style=for-the-badge&logo=javascript&logoColor=00ABEF" />
-  <img alt="React" src="https://img.shields.io/badge/React-080B0F?style=for-the-badge&logo=react&logoColor=00ABEF" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-080B0F?style=for-the-badge&logo=mongodb&logoColor=00ABEF" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-080B0F?style=for-the-badge&logo=docker&logoColor=00ABEF" />
-</div>
-
-<hr/>
-
-<h2>🧩 Client Portal (Exclusive)</h2>
-
-<table>
-  <tr>
-    <td width="33%" valign="top"><b>📦 Order Management</b><br/>Milestones, deliverables, timelines, status tracking.</td>
-    <td width="33%" valign="top"><b>🔐 Source Code Management</b><br/>Secure access, releases, handover-ready repositories.</td>
-    <td width="33%" valign="top"><b>☁️ Hosting</b><br/>Managed hosting, monitoring, uptime, maintenance.</td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top"><b>🔁 Subscriptions</b><br/>Maintenance, feature iterations, priority support.</td>
-    <td width="33%" valign="top"><b>💸 Exclusive Discounts</b><br/>Preferred pricing and bundled offers.</td>
-    <td width="33%" valign="top"><b>📊 Operations</b><br/>Logs, usage tracking, support workflows.</td>
-  </tr>
-</table>
-
-<hr/>
-
-<h2>🏢 Company</h2>
-
-<ul>
-  <li><b>Legal name:</b> Drangula Development FZE LLC</li>
-  <li><b>License Number:</b> 262782464888</li>
-  <li><b>Executive Director:</b> Dragan Milinkovic</li>
-  <li><b>Location:</b> United Arab Emirates</li>
-</ul>
-
-<hr/>
-
-<h2>📬 Contact</h2>
-
-<ul>
-  <li>🌐 https://www.drangula.net</li>
-  <li>✉️ hi@drangula.net</li>
-  <li>💬 https://t.me/drangula</li>
-</ul>
-
-<div align="center">
-  <sub>Built for scale. Designed to last. Delivered professionally.</sub>
 </div>
