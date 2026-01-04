@@ -88,49 +88,85 @@
   </tr>
 </table>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h2>🧠 AI & Automations</h2>
-      <ul>
-        <li>AI support agents & knowledge flows</li>
-        <li>Workflows, scheduling, monitoring, alerts</li>
-        <li>Integrations: CRMs, Gmail, Sheets, webhooks</li>
-        <li>Automation-first operations design</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h2>☁️ Hosting</h2>
-      <ul>
-        <li>Managed bot/app hosting</li>
-        <li>Deployment pipelines & environments</li>
-        <li>Uptime monitoring & incident response</li>
-        <li>Performance, logs, observability</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table width="92%">
+    <tr>
+      <td align="center">
 
-<hr/>
+        <table width="100%">
+          <tr>
+            <td width="50%" valign="top">
+              <h2>🧠 AI & Automations</h2>
+              <ul>
+                <li>AI support agents & knowledge flows</li>
+                <li>Workflows, scheduling, monitoring, alerts</li>
+                <li>Integrations: CRMs, Gmail, Sheets, webhooks</li>
+                <li>Automation-first operations design</li>
+              </ul>
+            </td>
 
-<h2>💎 Delivery Standard</h2>
+            <td width="50%" valign="top">
+              <h2>☁️ Hosting</h2>
+              <ul>
+                <li>Managed bot/app hosting</li>
+                <li>Deployment pipelines & environments</li>
+                <li>Uptime monitoring & incident response</li>
+                <li>Performance, logs, observability</li>
+              </ul>
+            </td>
+          </tr>
+        </table>
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>Design</h3>
-      <p>Premium UI/UX, brand consistency, clean spacing, modern components.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Engineering</h3>
-      <p>Scalable architecture, secure-by-default, performance-first, maintainable systems.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Shipping</h3>
-      <p>Production deployment, monitoring, structured handover, long-term support options.</p>
-    </td>
-  </tr>
-</table>
+        <hr />
+
+        <h2>🧩 Engagement Models</h2>
+
+        <table width="100%">
+          <tr>
+            <td width="33%" valign="top">
+              <h3>Build</h3>
+              <p>Full product delivery from scope to production release with clean handover.</p>
+            </td>
+
+            <td width="33%" valign="top">
+              <h3>Improve</h3>
+              <p>Audit, refactor, optimize performance, and upgrade UI/UX to a premium standard.</p>
+            </td>
+
+            <td width="33%" valign="top">
+              <h3>Maintain</h3>
+              <p>Ongoing iterations, monitoring, fixes, and feature growth via subscription.</p>
+            </td>
+          </tr>
+        </table>
+
+        <hr />
+
+        <h2>💎 Delivery Standard</h2>
+
+        <table width="100%">
+          <tr>
+            <td width="33%" valign="top">
+              <h3>Design</h3>
+              <p>Premium UI/UX, brand consistency, clean spacing, modern components.</p>
+            </td>
+
+            <td width="33%" valign="top">
+              <h3>Engineering</h3>
+              <p>Scalable architecture, secure-by-default, performance-first, maintainable systems.</p>
+            </td>
+
+            <td width="33%" valign="top">
+              <h3>Shipping</h3>
+              <p>Production deployment, monitoring, structured handover, long-term support options.</p>
+            </td>
+          </tr>
+        </table>
+
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br/>
 
@@ -167,7 +203,7 @@
 <ul>
   <li><b>Legal name:</b> Drangula Development FZE LLC</li>
   <li><b>License Number:</b> 262782464888</li>
-  <li><b>Executive Director:</b> Dragan Milinković</li>
+  <li><b>Executive Director:</b> Dragan Milinkovic</li>
   <li><b>Location:</b> United Arab Emirates</li>
 </ul>
 
